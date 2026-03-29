@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0" version="29.6.6">
   <diagram name="第 1 页" id="UCfOvn4vm195FrIBVPfJ">
-    <mxGraphModel dx="1584" dy="874" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -428,52 +428,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="领养申请模块" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="2360" as="geometry" />
+          <mxGeometry height="60" width="120" x="1200" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-101" edge="1" parent="1" source="CAfPvu5v_XDsI2wUlPMH-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" target="CAfPvu5v_XDsI2wUlPMH-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="提交模块" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="2480" as="geometry" />
+          <mxGeometry height="60" width="120" x="880" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-103" edge="1" parent="1" source="CAfPvu5v_XDsI2wUlPMH-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" target="CAfPvu5v_XDsI2wUlPMH-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="校验模块" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="2480" as="geometry" />
+          <mxGeometry height="60" width="120" x="1040" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-105" edge="1" parent="1" source="CAfPvu5v_XDsI2wUlPMH-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" target="CAfPvu5v_XDsI2wUlPMH-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="管理模块" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="2480" as="geometry" />
+          <mxGeometry height="60" width="120" x="1200" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-107" edge="1" parent="1" source="CAfPvu5v_XDsI2wUlPMH-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" target="CAfPvu5v_XDsI2wUlPMH-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="审核模块" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="2480" as="geometry" />
+          <mxGeometry height="60" width="120" x="1360" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="填写申请" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="2600" as="geometry" />
+          <mxGeometry height="60" width="120" x="880" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="校验逻辑" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="2600" as="geometry" />
+          <mxGeometry height="60" width="120" x="1040" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="数据存储" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="2600" as="geometry" />
+          <mxGeometry height="60" width="120" x="1200" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="双重审核" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="2600" as="geometry" />
+          <mxGeometry height="60" width="120" x="1360" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-113" edge="1" parent="1" source="CAfPvu5v_XDsI2wUlPMH-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" target="CAfPvu5v_XDsI2wUlPMH-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="状态模块" vertex="1">
-          <mxGeometry height="60" width="120" x="680" y="2480" as="geometry" />
+          <mxGeometry height="60" width="120" x="1520" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="状态流转" vertex="1">
-          <mxGeometry height="60" width="120" x="680" y="2600" as="geometry" />
+          <mxGeometry height="60" width="120" x="1520" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-120" edge="1" parent="1" source="CAfPvu5v_XDsI2wUlPMH-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" target="CAfPvu5v_XDsI2wUlPMH-127">
           <mxGeometry relative="1" as="geometry" />
@@ -491,52 +491,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-125" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="个人中心模块" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="2720" as="geometry" />
+          <mxGeometry height="60" width="120" x="1200" y="1560" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-126" edge="1" parent="1" source="CAfPvu5v_XDsI2wUlPMH-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" target="CAfPvu5v_XDsI2wUlPMH-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-127" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="信息模块" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="2840" as="geometry" />
+          <mxGeometry height="60" width="120" x="880" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-128" edge="1" parent="1" source="CAfPvu5v_XDsI2wUlPMH-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" target="CAfPvu5v_XDsI2wUlPMH-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="头像模块" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="2840" as="geometry" />
+          <mxGeometry height="60" width="120" x="1040" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-130" edge="1" parent="1" source="CAfPvu5v_XDsI2wUlPMH-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" target="CAfPvu5v_XDsI2wUlPMH-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-131" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="密码模块" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="2840" as="geometry" />
+          <mxGeometry height="60" width="120" x="1200" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-132" edge="1" parent="1" source="CAfPvu5v_XDsI2wUlPMH-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" target="CAfPvu5v_XDsI2wUlPMH-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-133" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="关注模块" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="2840" as="geometry" />
+          <mxGeometry height="60" width="120" x="1360" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="信息管理" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="2960" as="geometry" />
+          <mxGeometry height="60" width="120" x="880" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-135" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="上传头像" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="2960" as="geometry" />
+          <mxGeometry height="60" width="120" x="1040" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-136" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="修改密码" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="2960" as="geometry" />
+          <mxGeometry height="60" width="120" x="1200" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-137" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="收藏管理" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="2960" as="geometry" />
+          <mxGeometry height="60" width="120" x="1360" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-138" edge="1" parent="1" source="CAfPvu5v_XDsI2wUlPMH-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" target="CAfPvu5v_XDsI2wUlPMH-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-139" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="申请模块" vertex="1">
-          <mxGeometry height="60" width="120" x="680" y="2840" as="geometry" />
+          <mxGeometry height="60" width="120" x="1520" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="CAfPvu5v_XDsI2wUlPMH-140" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="申请记录" vertex="1">
-          <mxGeometry height="60" width="120" x="680" y="2960" as="geometry" />
+          <mxGeometry height="60" width="120" x="1520" y="1800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
